@@ -962,3 +962,8 @@
   contact: https://github.com/davzucky/devcontainers-features-wolfi/issues
   repository: https://github.com/davzucky/devcontainers-features-wolfi
   ociReference: ghcr.io/davzucky/devcontainers-features-wolfi  
+- name: Ziglang devcontainer Template
+  maintainer: fardragon
+  contact: https://github.com/fardragon/devcontainers-zig-template/issues
+  repository: https://github.com/fardragon/devcontainers-zig-template
+  ociReference: ghcr.io/fardragon/devcontainers-zig-template
